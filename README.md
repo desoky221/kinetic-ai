@@ -1,4 +1,4 @@
-# 🏃 Kinetic AI: AI Running Performance Director
+# Kinetic AI: AI Running Performance Director
 
 **Live:** https://kineticai.run
 
@@ -27,4 +27,4 @@ An AI coach for runners. It builds training plans, tracks workouts and runs dail
 ## Tech stack
 Python · FastAPI · React · Expo (React Native) · Docker · AWS App Runner · pytest · OWASP ZAP · Semgrep · Bandit
 
-> 🔒 **Source code is private** (client/team project). This page shows what was built and the result. Happy to walk through the code and architecture in an interview.
+> **Source code is private** (client/team project). This page shows what was built and the result. Happy to walk through the code and architecture in an interview.
